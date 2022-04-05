@@ -14,7 +14,7 @@ const Home = () => (
         <p className="heading">Center of Proposal Excellence (COPE)</p>
         <p className="sub-heading">
           <p>
-            FLEET OF RESOURCES WITH DECADES OF EXPERIENCE IN PURSUIT MANAGEMENT.
+            Fleet of resources with decades of experience in pursuit management.
           </p>
           <p>
             DELIVERY ALIGNED WITH APMP AND SHIPLEY PROCESSES. EXPERIENCED TEAM
