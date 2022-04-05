@@ -17,11 +17,11 @@ const Home = () => (
             Fleet of resources with decades of experience in pursuit management.
           </p>
           <p>
-            DELIVERY ALIGNED WITH APMP AND SHIPLEY PROCESSES. EXPERIENCED TEAM
+            Delivery aligned with APMP and shipley processes. EXPERIENCED TEAM
           </p>
           <p>
-            ACROSS FEDERAL, STATE, LOCAL AND COMMERCIAL PURSUITS. END TO END
-            PROPOSAL MANAGEMENT WITH COVERAGE ACROSS ENTIRE BID LIFE CYCLE.
+            Experienced team across federal, state, local and commercial pursuits. End to end
+            Proposal management with coverage across entire bid life cycle.
           </p>
         </p>
       </div>
@@ -29,7 +29,7 @@ const Home = () => (
         <img src={heroImage2}></img>
         <div className="image-text">
           <p className="heading">Our Offerings</p>
-          <p className="sub-heading">PARTNERING AS AN EXTENDED SUPPORT TEAM</p>
+          <p className="sub-heading">Partnering As An Extended Support Team</p>
           <p className="sub-heading-descr">
             Cost of a lost bid is much more than missed revenue - time spent by
             C-level executives, Good references used many a times and so on. Let
