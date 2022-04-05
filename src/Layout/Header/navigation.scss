@@ -1,0 +1,43 @@
+.navigation {
+  .nav {
+    display: flex;
+    justify-content: center;
+    ul {
+      list-style: none;
+      display: flex;
+      li {
+        padding: 17px;
+        a {
+          text-decoration: none;
+          font-size: 13px;
+        }
+      }
+    }
+  }
+  .get-in-touch {
+    color: #419bad;
+    padding: 15px;
+    border: 1px solid #419bad;
+    background: transparent;
+    border-radius: 26px;
+    transition: 0.3s;
+    cursor: pointer;
+    top: 25px;
+    right: 34px;
+    position: absolute;
+    &:hover {
+      color: white;
+      padding: 15px;
+      border: 1px solid #419bad;
+      background: #419bad;
+      border-radius: 26px;
+    }
+  }
+  .get-in-touch-details{
+    top: 83px;
+    right: 41px;
+    position: absolute;
+    font-size: 12px;
+    text-align: center;
+  }
+}
