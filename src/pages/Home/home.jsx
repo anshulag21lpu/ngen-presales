@@ -17,7 +17,7 @@ const Home = () => (
             Fleet of resources with decades of experience in pursuit management.
           </p>
           <p>
-            Delivery aligned with APMP and shipley processes. EXPERIENCED TEAM
+            Delivery aligned with APMP and shipley processes.
           </p>
           <p>
             Experienced team across federal, state, local and commercial pursuits. End to end
